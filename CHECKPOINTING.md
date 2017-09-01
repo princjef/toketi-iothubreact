@@ -8,7 +8,7 @@ in Azure Blobs or Cassandra.
 
 ## Checkpoint storage
 
-To store checkpoints in Azure blobs, using a time or threashold based logic, the configuration
+To store checkpoints in Azure blobs, using a time or threshold based logic, the configuration
 looks like the following:
 
 ```
